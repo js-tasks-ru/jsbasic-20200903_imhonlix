@@ -29,5 +29,5 @@ n! = n * (n - 1) * (n - 2) * ...*1
 factorial(0); // 1
 factorial(1); // 1
 factorial(3); // 6
-factorial(5); // 120
+factorial(5); // 120 функция for n != 1 sum *= n - i
 ```
