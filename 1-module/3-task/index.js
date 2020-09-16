@@ -3,6 +3,8 @@
  * @param {string} str
  * @returns {string}
  */
+let bigB;
+
 function ucFirst(str) {
     for (let i = 0; i < str.length; i++) {
         bigB = str[0].toUpperCase();
